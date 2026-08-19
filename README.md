@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Chris Choi (Korean name : YuBin Choi) 👋
 
-<!--
-**pavkids84-dev/pavkids84-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Cloud Infrastructure Engineer based in South Korea.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Cloud Infrastructure at KT Cloud Tech Up
+- Learning Linux, networking, cloud infrastructure, and security
+- Preparing for the Information Security Engineer certification
+
+## Career Interests
+
+- Cloud Infrastructure
+- DevOps
+- Cloud Security
+
+## Currently Learning
+
+- Linux
+- Networking
+- Cloud Infrastructure
+- Shell Scripting
+
+## Projects
+
+Projects will be added as I progress through my cloud infrastructure training.
