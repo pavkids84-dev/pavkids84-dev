@@ -1,4 +1,4 @@
-# Hi, I'm Chris Choi (Korean name : YuBin Choi) 👋
+# Hi, I'm Chris Choi 👋
 
 I'm an aspiring Cloud Infrastructure Engineer based in South Korea.
 
